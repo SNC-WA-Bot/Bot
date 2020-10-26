@@ -1,0 +1,25 @@
+{
+    "permissions": {
+    },
+    "drivers": {
+        "windows": "location_to_chromedriver",
+        "linux": "location_to_chromedriver"
+    },
+    "whatsappweb": "whatsapp_web_url",
+    "server": "server_url",
+    "token": "token",
+    "prefix": ".",
+    "chats": {
+    },
+    "logger": {
+        "enabled": false,
+        "whitelist": false,
+        "whitelisted": [
+        ],
+        "blacklist": false,
+        "blacklisted": [
+        ]
+    },
+    "subject_abbreviations": {
+    }
+}
